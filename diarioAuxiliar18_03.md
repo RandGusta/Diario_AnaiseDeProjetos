@@ -1,55 +1,69 @@
-AULA dia 18/03/2025
-Tema da aula: SDLC (Ciclo de vida de um software)
-Só existe um e é dividido em 7 ou 6 fases 
+# 📅 AULA - 18/03/2025
 
-modelos: 
-* Utilizam o ciclo de vida (SDLC)
-* como será feito
-* exemplo: Cascata (mais antigo; cada fase nova depende da anterior; erros de comunicação podem atrapalhar)
-  
-Metodologias ágeis DIFERENTE de metodologias auxiliares
-  * metodologia auxiliar:
-    * kanban → gerenciar tarefas 
-    * Scum → gerenciar projetos 
-    * hoje em dia metodologias auxiliares podem ser chamadas de metodologias ágeis dependendo da argumentação.
-      grande parte das empresas adotam a metodologia ágil, pois ela diminui os erros
+## ✨ ATIVIDADE EM GRUPO  
+### 📌 Tema: PROJETO DE SOFTWARE  
+- 🔍 Buscar fontes confiáveis  
+- 📖 Buscar pelo menos **3 exemplos** de ciclo de desenvolvimento de um software  
 
-ATIVIDADE EM GRUPO:
-  * tema: PROJETO DE SOFTWARE 
-  * buscar fontes confiáveis 
-  * busque pelo menos 3 ⇒ exemplos de ciclo de desenvolvimento de um software
+## 🧐 Análise dos SDLCs  
+- Verificar as fases e classificação em **estruturação, execução e finalização**  
+- Citar **metodologias ágeis**  
 
-Análise dos SDLCs ⇒ verificar as fases e classificação em estruturação, execução e finalização.
-citar metodologias ágeis
-Execução da atividade:
+## 🚀 Execução da atividade  
 
-fontes:
-[ Site amazon “o que são SDLCs?”;](https://aws.amazon.com/pt/what-is/sdlc/)
-https://keepsimple.io/software-development-life-cycles
+### 🔗 Fontes:  
+- [Site Amazon - “O que são SDLCs?”](https://aws.amazon.com/pt/what-is/sdlc/)  
+- [KeepSimple - Software Development Life Cycles](https://keepsimple.io/software-development-life-cycles)  
+- [GitHub Resources - O que é SDLC?](https://resources.github.com/pt-BR/software-development/what-is-sdlc/)  
 
-SDLCs ⇒ processo que engenheiros de software utilizam para planejar, projetar, desenvolver
-4 SDLCs(Ciclos de Vida) principais:
-Cascada:
-mais tradicional; muito planejamento;  processo sequencial; cada nova fase depende do resultado da anterior, fluindo de uma fase para outra.
-predictive approach ⇒ Planejar e entender o'que o projeto precisa antes de começar 
-Iterativo 
-processo que permite feedback de um projeto não terminado para modificá-lo
-não requer finalizar todos todos os requerimentos antes de começar
-é suficiente quando o cliente sabe o bruto do que ele quer
-conduzem demos para ir se aproximando do desejo do cliente 
-essencial que o programa seja funcional a cada iteração
+## 🔄 SDLCs - Ciclos de Vida do Software  
+O **SDLC** (Software Development Life Cycle) é o processo que engenheiros de software utilizam para **planejar, projetar e desenvolver** sistemas.  
 
-Incremental 
-produz um trabalho finalizado para os usuários poderem usar imediatamente
-MVP ⇒ produto mínimo viável, faz o mínimo que o cliente precisa e incrementa, evolução comparado ao cascata 
-espiral
-cliente participa(representante) em todas as fases 
-ágil:
-Iterativo e incremental para refinar os itens do trabalho  e entregar com frequência partes significativas (2001)
-4 valores:
-cliente (muito importante para evitar erros de comunicação)
-equipe (pessoas que fazem diferença e não a ferramentas)
-processo (estar aberto às mudanças)
-software finalizado (foco em deixar o foco funcionando)
+### 🔷 **Principais Modelos SDLC:**  
+
+#### 🏗️ Cascata  
+- Modelo **tradicional** e bem estruturado  
+- **Processo sequencial:** cada fase depende da anterior  
+- **Predictive approach:** planejamento detalhado antes do início  
+
+#### 🔁 Iterativo  
+- Permite **feedback contínuo** para ajustes no projeto  
+- Não requer que **todos os requisitos** estejam definidos desde o início  
+- **Demonstrações frequentes** para alinhamento com o cliente  
+- Cada iteração deve ser **funcional**  
+
+#### 🔄 Incremental  
+- Produz um **produto utilizável** desde o início  
+- Utiliza **MVP (Produto Mínimo Viável)** e incrementa ao longo do tempo  
+- Evolução em relação ao **modelo Cascata**  
+
+#### 🌀 Espiral  
+- O **cliente participa** ativamente em todas as fases do projeto  
+
+### ⚡ Metodologia Ágil  
+- Modelo **iterativo e incremental**  
+- Foco em **refinamento contínuo** e entregas frequentes  
+- Surgiu em **2001** e se baseia em **4 valores principais**:  
+  - 👤 **Cliente:** essencial para evitar falhas de comunicação  
+  - 👥 **Equipe:** pessoas são mais importantes que ferramentas  
+  - 🔄 **Processo:** adaptação e flexibilidade são essenciais  
+  - 🎯 **Software funcionando:** prioridade é entregar um produto funcional  
+
+## 🗣️ Discussões  
+### 🎯 Tema da aula: **SDLC (Ciclo de Vida de um Software)**  
+- Há um único SDLC, **dividido em 6 ou 7 fases**  
+- **Modelos utilizam SDLC**, definindo **como o software será desenvolvido**  
+- **Exemplo:** Cascata (modelo antigo, dependência entre fases, risco de falhas na comunicação)  
+
+## 📝 Metodologias Ágeis vs. Metodologias Auxiliares  
+### 🚀 **Metodologias Ágeis**  
+- Enfatizam **colaboração**, **feedback contínuo** e **entregas rápidas**  
+
+### 🛠️ **Metodologias Auxiliares**  
+- **Kanban:** 📊 Gerenciamento de tarefas  
+- **Scrum:** 📋 Gerenciamento de projetos  
+
+> ⚠️ Hoje, algumas **metodologias auxiliares** podem ser consideradas **metodologias ágeis**, dependendo do contexto.  
+> A maioria das empresas adota **metodologias ágeis**, pois reduzem erros e melhoram o desenvolvimento do software.  
 
 
