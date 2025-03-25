@@ -47,13 +47,14 @@ O **SDLC** (Software Development Life Cycle) é o processo que engenheiros de so
   - 👤 **Cliente:** essencial para evitar falhas de comunicação  
   - 👥 **Equipe:** pessoas são mais importantes que ferramentas  
   - 🔄 **Processo:** adaptação e flexibilidade são essenciais  
-  - 🎯 **Software funcionando:** prioridade é entregar um produto funcional  
+  - 🎯 **Software funcionando:** prioridade é entregar um produto funcional do que a documentação(ela **ainda sim** é importante)  
 
 ## 🗣️ Discussões  
 ### 🎯 Tema da aula: **SDLC (Ciclo de Vida de um Software)**  
 - Há um único SDLC, **dividido em 6 ou 7 fases**  
 - **Modelos utilizam SDLC**, definindo **como o software será desenvolvido**  
-- **Exemplo:** Cascata (modelo antigo, dependência entre fases, risco de falhas na comunicação)  
+- **Exemplo:** Cascata (modelo antigo, dependência entre fases, risco de falhas na comunicação, unica entrega muito arriscado)
+
 
 ## 📝 Metodologias Ágeis vs. Metodologias Auxiliares  
 ### 🚀 **Metodologias Ágeis**  
@@ -67,7 +68,7 @@ O **SDLC** (Software Development Life Cycle) é o processo que engenheiros de so
 > A maioria das empresas adota **metodologias ágeis**, pois reduzem erros e melhoram o desenvolvimento do software.
 
 ##
-* 🎖️ Autoavaliação: **junior**
+* 🎖️ Autoavaliação: **Estagiário**
 ## 
 
 
