@@ -29,6 +29,7 @@
        * 5° erro: viés --> posicionamentos tedenciosos
      
        * **técnicas**
+    
          -> pesquisa de mercado: entender o custo, os concorrentes,  pesquisa sobre os softwares já existentes do seu software
     
           ## 📝 Entrevista vs. Questionário 
