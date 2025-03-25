@@ -67,6 +67,10 @@ O **SDLC** (Software Development Life Cycle) é o processo que engenheiros de so
 > A maioria das empresas adota **metodologias ágeis**, pois reduzem erros e melhoram o desenvolvimento do software.
 
 
+## 🎖️ Autoavaliação:
+junior
+
+
 ###  Materiais de aula:
 * LARMAN, Craig. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. Porto Alegre: Bookman, 2005.
 > Capítulo 4: O processo unificado e iterações na modelagem de requisitos (p. 75-100).
