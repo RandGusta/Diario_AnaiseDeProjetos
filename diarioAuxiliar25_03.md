@@ -34,7 +34,8 @@
           ## 📝 Entrevista vs. Questionário 
          -> entrevistas: perguntas dinâmicas para diminuir o erro de comunicação
          -> questionário: **entrevista** mais limitada (**depende** da situação você decide o que fazer)
-    
+
+   
          ## 📝 Etnografia vs. Observação 
          -> etnografia: vivência da empresa --> utiliza observação (priorizasse?)*
          -> observação: Subtipo limitado da etnografia, **mais limitado**
