@@ -69,6 +69,7 @@ O **SDLC** (Software Development Life Cycle) é o processo que engenheiros de so
 
 ## 🎖️ Autoavaliação:
 junior
+## 
 
 
 ###  Materiais de aula:
