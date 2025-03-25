@@ -33,8 +33,8 @@
     
           ## 📝 Entrevista vs. Questionário 
          -> entrevistas: perguntas dinâmicas para diminuir o erro de comunicação
+         
          -> questionário: **entrevista** mais limitada (**depende** da situação você decide o que fazer)
-
    
          ## 📝 Etnografia vs. Observação 
          -> etnografia: vivência da empresa --> utiliza observação (priorizasse?)*
@@ -46,7 +46,13 @@
          -> prototipação: cria um protótipo, conceitual ou prático (validando a idea)
 
          -> análise documental: **também** é uma forma de validação; vistória documental da empresa- documento que fala dar normas da empresa **MUITO** importante
-         
 
+## **📔Material de estudos**
+    
+* LARMAN, Craig. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. Porto Alegre:          Bookman, 2005.
+> Capítulo 4: O processo unificado e iterações na modelagem de requisitos (p. 75-100).
+> Capítulo 5: Levantamento e análise de requisitos (p. 101-132).
+
+* PRESSMAN, Roger S; MAXIM, Bruce R. Engenharia de Software: uma abordagem profissional. 9. ed. Porto Alegre: McGraw-Hill, 2021.
          
      
