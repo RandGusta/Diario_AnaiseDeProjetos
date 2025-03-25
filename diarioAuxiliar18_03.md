@@ -67,8 +67,7 @@ O **SDLC** (Software Development Life Cycle) é o processo que engenheiros de so
 > A maioria das empresas adota **metodologias ágeis**, pois reduzem erros e melhoram o desenvolvimento do software.
 
 ##
-* 🎖️ Autoavaliação:
---> junior
+* 🎖️ Autoavaliação: **junior**
 ## 
 
 
