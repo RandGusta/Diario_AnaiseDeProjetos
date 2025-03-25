@@ -68,8 +68,6 @@ O **SDLC** (Software Development Life Cycle) é o processo que engenheiros de so
 
 
 ###  Materiais de aula:
-*  LARMAN, Craig. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. Porto Alegre: Bookman, 2005.
-
 * LARMAN, Craig. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. Porto Alegre: Bookman, 2005.
 > Capítulo 4: O processo unificado e iterações na modelagem de requisitos (p. 75-100).
 > Capítulo 5: Levantamento e análise de requisitos (p. 101-132).
