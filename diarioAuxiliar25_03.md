@@ -48,6 +48,32 @@
 
          -> análise documental: **também** é uma forma de validação; vistória documental da empresa- documento que fala dar normas da empresa **MUITO** importante
 
+## **Introdução ao Estudo de caso**
+
+## Fontes:
+* https://www.blog.auvo.com/controle-de-materiais
+
+* Oque é o Controle de materiais?
+➡️ Metodo de organizar utilizado por; empresas, escolas, industrias
+➡️ objetivo: garantir que os estoques de materias esteja em dia conforme as necessidades
+➡️ previnir prejuizos
+➡️ importancia para o equilibrio financeiro
+➡️ otimiza tempo ➡ previne falta de materiais
+➡️ Criar **regras** é importante para **entrada e saida de materias**
+   ➡ uso obrigatório de documentos para retirada ou colocar um material
+   ➡ inventários periódicos
+   ➡ regitrar entrada e saída
+  
+* Mercado de software de controle de materias
+  ➡ sistemas que permitem **gerenciar e rastrear o estoque dos produtos/materias**
+
+## **❓Perguntas (técnica: Questionário)**
+* Como é feito o controle de materiais atualmente?
+* Dificuldades no controle atual?
+* Pontos do controle atual que considera benéfico?
+* Existe alguma regra de controle de saída e entrada?
+* Qual o impácto do controle de materias nos resultados da instituição?
+
 ## **📔Material de estudos**
     
 * LARMAN, Craig. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. Porto Alegre:          Bookman, 2005.
