@@ -44,7 +44,20 @@
 *  tempo de objetos perdidos ➡ normativa ➡ 3 meses
 *  atrazo ➡ *contexto relevante*
 *  o mais *importante* **não é o meio** é o IF é que os recursos sejem bem admistrados e cuidados ➡ **INVESTIMENTO PARA O INSTITUTO**
-  
+
+
+## ✍️ Perguntas da equipe ##
+
+* Em caso de advertência por atraso ou dano ➡ aluno retido?
+  > Depende ➡ caso existe uma frequencia, analizado o contexto e o perfil do aluno, caso algo fundamental é aplicado um outro tipo de medida para manter a consciência
+  > nenhum aluno nunca foi po
+* Como é feita a entrada de material novo?
+  > todo material novo, ele entra com numero de patrimonio ➡ se um bem duravel: titulação de responsavel com o chefe da sessão pedagógica
+  > material que entra ➡ levantamento do que é util para o aluno (lazer, aprendizagem)
+* Com o novo sistema de angendamento de sala pelo SUAP, como funciona a disponibilidade e controle de salas e chavez?
+  > Há planilha do SUAP, Maior auxilio para os professores devido muitas mais ferramentas desse sistema, para assistencia houve uma melhora, em caso de alunos ➡ necessario perguntar na assitencia
+* Quais são os outros blocos de materiais, blocos de achados e perdidos e...?
+  >
 
 
 
