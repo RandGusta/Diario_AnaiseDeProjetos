@@ -57,7 +57,7 @@
 * Com o novo sistema de angendamento de sala pelo SUAP, como funciona a disponibilidade e controle de salas e chavez?
   > Há planilha do SUAP, Maior auxilio para os professores devido muitas mais ferramentas desse sistema, para assistencia houve uma melhora, em caso de alunos ➡ necessario perguntar na assitencia
 * Quais são os outros blocos de materiais, blocos de achados e perdidos e...?
-  >
+  > Um para chavez e outros para todos os outros materiais(talheres, bola, raquete...)
 
 
 
