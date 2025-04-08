@@ -49,3 +49,18 @@
 * `[LRP002]`: **Permitir que o Administrador acesse os dados de tempo do empréstimo**  
 * `[LRP003]`: **Permitir que o usuário solicite o material que deseja empréstimo** 👤
 
+## 🗂️ Documentação de requisitos:
+* Vários modelos
+
+*  1️⃣ fase - **Rastreabilidade**
+*  2️⃣ fase - **Cadastros/Entidades**
+    * Cadastros --> dados
+    * Entidade --> Representa um objeto no mundo real (Classe)
+* 3️⃣ fase - Identificação de Dependência/Correlações
+    * Diario de aula --> Depende de Professor e Aluno
+* 4️⃣ fase - Campos e Características
+* 5️⃣ fase - Identificação das regras de negócio
+    * ex: Validar o CPF do cliente antes da compra
+* 6️⃣ fase - Identificação De Requisitos não funcionais
+    * Descrições das funcionalidades, Condições de segurança, etc...
+    * **NÃO** coloque sen não precisar 
